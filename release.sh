@@ -63,7 +63,7 @@ skip_changelog=
 skip_jsdoc=
 skip_npm=
 changelog_file="CHANGELOG.md"
-expected_npm_user="matrixdotorg"
+expected_npm_user="phuctu1901"
 while getopts hc:u:xzn f; do
     case $f in
         h)
